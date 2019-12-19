@@ -1,8 +1,9 @@
 {
   "development": {
+    "api_key": "APTXBJWR40NIG5I1"
   },
   "test": {
-  },
-  "production": {
-  }
+},
+"production": {
+}
 }

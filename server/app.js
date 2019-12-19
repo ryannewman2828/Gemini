@@ -5,6 +5,7 @@ const cookieParser = require('cookie-parser');
 const logger = require('./api/utils/LoggingUtil');
 
 const routes = require('./api/routes');
+require('./api/services/StockService');
 
 const app = express();
 
